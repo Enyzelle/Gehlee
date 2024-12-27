@@ -1,5 +1,16 @@
 # Gehlee - The Ultimate K-Pop Card Collection Bot 🎤✨
 
+<div align="center">
+  <img src="gehlee_banner.png" alt="Gehlee Banner" width="250"/>
+  
+  [![License](https://img.shields.io/github/license/Enyzelle/Gehlee)](https://github.com/Enyzelle/Gehlee/blob/main/LICENSE)
+  [![Stars](https://img.shields.io/github/stars/Enyzelle/Gehlee)](https://github.com/Enyzelle/Gehlee/stargazers)
+  [![Issues](https://img.shields.io/github/issues/Enyzelle/Gehlee)](https://github.com/Enyzelle/Gehlee/issues)
+  [![Discord](https://img.shields.io/discord/1322138276932616252)](https://discord.gg/ggsas)
+</div>
+
+## 🤔 About
+
 Gehlee is a **K-Pop Card Collection Bot** designed to bring the excitement of trading, collecting, and showcasing K-Pop idol cards right into your Discord server! With tons of cards to collect, features to explore, and a thriving community to engage with, Gehlee offers a unique experience for K-Pop enthusiasts and collectors alike.
 
 ---
@@ -75,8 +86,13 @@ This project is licensed under the [MIT License](LICENSE).
 
 - Inspired by K-Pop and the amazing global fanbase.
 - Thanks to all contributors and testers for making Gehlee awesome.
-- Shoutout to the developers of Discord.js and all other libraries used in this project.
+- Shoutout to the developers of [Discord.js](https://discord.js.org/) and all other libraries used in this project.
 
 ---
 
 ### ✨ Let the K-Pop adventure begin!
+
+---
+<div align="center">
+  Made with ❤️ by Enyzelle
+</div>
