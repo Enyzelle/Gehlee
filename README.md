@@ -54,6 +54,7 @@ Gehlee is a **K-Pop Card Collection Bot** designed to bring the excitement of tr
 | `/profile`           | Customize your profile.      |
 | `/albums`            | Manage your card albums.     |
 
+And more commands! You can see all commands using `/help`
 ---
 
 ## 🤝 Contribution
