@@ -20,7 +20,7 @@ Gehlee is a **K-Pop Card Collection Bot** designed to bring the excitement of tr
 
 ## 📸 Screenshots
 
-> Showcase your bot in action! Add some eye-catching images or GIFs here. 
+> Gonna showcase the bot soon it's still WIP
 
 ---
 
